@@ -1,5 +1,4 @@
-### Hi there, I'm Ivanna 👋
-
+## hello, I'm Ivanna 👋
 -----------------------------
 
 I'm currently a graduate student in Computational Analysis and Public Policy (MSCAPP) at UChicago. Due to academic policy, private repositories can be provided upon request.
